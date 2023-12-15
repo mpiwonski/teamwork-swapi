@@ -1,0 +1,13 @@
+* {
+  font-family: "Afacad", sans-serif;
+}
+
+a:link {
+  color: white;
+}
+
+a:visited {
+  color: pink;
+  background-color: transparent;
+  text-decoration: none;
+}
